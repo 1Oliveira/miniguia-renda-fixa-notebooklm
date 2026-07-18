@@ -1,6 +1,7 @@
 # Mini-Guia de Estudo: Renda Fixa no Brasil
 
 > Caderno temático criado com o **NotebookLM** - Projeto Prático DIO
+> https://notebooklm.google.com/notebook/4e935f26-024a-4c7e-8ba1-644ef759a026
 
 ---
 
@@ -204,5 +205,5 @@ Markdown	Formatação do README e documentos
 
 Autor
 Wallace R. Oliveira
-- 🔗 GitHub: @seu-usuario (https://github.com/1Oliveira)
-- 🔗 LinkedIn: Seu LinkedIn (https://linkedin.com/in/wallaceramos )
+- 🔗 GitHub: (https://github.com/1Oliveira)
+- 🔗 LinkedIn: (https://linkedin.com/in/wallaceramos)
