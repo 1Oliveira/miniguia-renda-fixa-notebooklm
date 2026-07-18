@@ -196,25 +196,13 @@ Estes são os prompts que funcionaram melhor e podem ser reutilizados para estud
 
 ---
 
-##  Evidências do NotebookLM
-
-*(Adicione aqui prints de tela do seu caderno no NotebookLM)*
-
-Para adicionar imagens:
-1. Salve os prints de tela na pasta `assets/screenshots/`
-2. Use este formato no README:
-
-```markdown
-![Descrição da imagem](assets/screenshots/nome-da-imagem.png)
-🛠️ Tecnologias e Ferramentas Utilizadas
+Tecnologias e Ferramentas Utilizadas
 Ferramenta	Uso no Projeto
 NotebookLM	Caderno temático com IA generativa para aprendizado ativo
 GitHub	Hospedagem do projeto e versionamento
 Markdown	Formatação do README e documentos
-👤 Autor
-Seu Nome Aqui
-- 🔗 GitHub: @seu-usuario (https://github.com/seu-usuario)
-- 🔗 LinkedIn: Seu LinkedIn (https://linkedin.com/in/seu-linkedin)
-- 🔗 DIO: Seu perfil DIO (https://dio.me/seu-usuario)
-📝 Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE (LICENSE) para mais detalhes.
+
+Autor
+Wallace R. Oliveira
+- 🔗 GitHub: @seu-usuario (https://github.com/1Oliveira)
+- 🔗 LinkedIn: Seu LinkedIn (https://linkedin.com/in/wallaceramos )
